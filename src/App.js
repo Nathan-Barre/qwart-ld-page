@@ -23,6 +23,7 @@ i18next
         },
         react: {useSuspense: false}
     })
+
 function App() {
     const { t } = useTranslation();
     
