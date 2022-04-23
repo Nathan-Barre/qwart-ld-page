@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/qwart-ld-page/static/css/main.eedc9047.chunk.css",
-    "main.js": "/qwart-ld-page/static/js/main.84bef254.chunk.js",
-    "main.js.map": "/qwart-ld-page/static/js/main.84bef254.chunk.js.map",
+    "main.js": "/qwart-ld-page/static/js/main.367f6290.chunk.js",
+    "main.js.map": "/qwart-ld-page/static/js/main.367f6290.chunk.js.map",
     "runtime-main.js": "/qwart-ld-page/static/js/runtime-main.93e40b95.js",
     "runtime-main.js.map": "/qwart-ld-page/static/js/runtime-main.93e40b95.js.map",
     "static/css/2.605c01c8.chunk.css": "/qwart-ld-page/static/css/2.605c01c8.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.605c01c8.chunk.css",
     "static/js/2.a916be09.chunk.js",
     "static/css/main.eedc9047.chunk.css",
-    "static/js/main.84bef254.chunk.js"
+    "static/js/main.367f6290.chunk.js"
   ]
 }
